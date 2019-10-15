@@ -1,0 +1,22 @@
+h1 {
+  font-family: 'Anton', sans-serif;
+
+}
+h2{
+  font-family: 'Anton', sans-serif;
+margin-top: -12px;
+}
+h3 {
+  font-family: 'Big Shoulders Text', cursive;
+  font-size: 50px;
+  margin-top: -15px;
+}
+h4 {
+  margin-top: -9px;
+}
+
+h5 {
+  font-family: 'Big Shoulders Text', cursive;
+  font-size: 50px;
+  margin-bottom: -9px;
+}
